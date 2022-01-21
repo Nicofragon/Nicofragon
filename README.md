@@ -27,7 +27,6 @@ Data sciencetist in the making
 </a>
   
   
-  
 --- 
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nicofragon&left_color=green&right_color=red)
