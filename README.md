@@ -1,9 +1,11 @@
 ### Hi there 👋, Im Nicolas 
 ---  
+#### 📬 Find me at [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasfrateg/)](https://www.linkedin.com/in/nicolasfrateg/)
+
 
 Data sciencetist in the making
 
-## 📬 Find me at [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasfrateg/)](https://www.linkedin.com/in/nicolasfrateg/)
+
 
 ## My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
