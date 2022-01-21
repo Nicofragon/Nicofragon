@@ -5,7 +5,7 @@
 
 Data sciencetist in the making
 
-  - 🔭 I’m currently working as a data sciencetist in Expedia.com 
+  - 🔭 I’m currently working as a data sciencetist at [Expedia.com](https://www.expedia.com)
   - 🌱 I’m learning Machine Learning and Big Data
 
 
