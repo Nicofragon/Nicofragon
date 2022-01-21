@@ -19,6 +19,17 @@ Data sciencetist in the making
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## 🚀 Quick Stats
-![Nicofragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicofragon&theme=buefy&show_icons=true)
-
+<a href="https://github.com/Nicofragon/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicofragon&theme=buefy&show_icons=true" />
+</a>
+<a href="https://github.com/Nicofragon/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicofragon&langs_count=8)](https://github.com/Nicofragon/github-readme-stats" />
+</a>
+  
+  
+  
+--- 
+  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nicofragon&left_color=green&right_color=red)
+
+
