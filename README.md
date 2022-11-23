@@ -25,7 +25,8 @@ Data sciencetist in the making
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicofragon&langs_count=5&layout=compact)](https://github.com/Nicofragon/github-readme-stats" />
 </a>
   
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicofragon&layout=compact"/>
+
 --- 
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nicofragon&left_color=green&right_color=red)
