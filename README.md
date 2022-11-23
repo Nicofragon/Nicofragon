@@ -22,7 +22,7 @@ Data sciencetist in the making
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicofragon&theme=buefy&show_icons=true" />
 </a>
 <a href="https://github.com/Nicofragon/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicofragon&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicofragon"/>
 </a>
   
 
